@@ -86,7 +86,7 @@ If you'd like any of the above, tell me which and I will implement it.
 
 ## License
 
-This project is provided for educational purposes. Add a license file (for example, `LICENSE`) if you want to reuse or distribute the code.
+This project is provided for educational purposes.
 
 ---
 
