@@ -1,0 +1,15 @@
+# Minimal, conservative dependency ranges for the Student Performance Predictor notebook
+# Install with: pip install -r requirements.txt
+
+pandas>=1.5,<2.0
+numpy>=1.24,<2.0
+scikit-learn>=1.2,<2.0
+matplotlib>=3.6,<4.0
+seaborn>=0.12,<1.0
+scipy>=1.10,<2.0
+joblib>=1.2,<2.0
+
+# Optional / interactive
+jupyterlab>=3.6,<4.0
+notebook>=6.5,<7.0
+ipykernel>=6.0,<8.0

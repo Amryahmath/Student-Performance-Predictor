@@ -90,4 +90,3 @@ This project is provided for educational purposes. Add a license file (for examp
 
 ---
 
-Questions or requests? Tell me if you want a `requirements.txt`, dataset rename, automatic Drive-mounting cells added to the notebook, or a prediction script.
